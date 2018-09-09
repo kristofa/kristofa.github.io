@@ -68,7 +68,7 @@ youtube:
 
 soundcloud:
   name: "SoundCloud"
-  baseURL: "https://soundcloud.com"
+  baseURL: "https://soundcloud.com/"
   icon: "fa-soundcloud"
 
 spotify:
