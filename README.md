@@ -1,5 +1,6 @@
 ```
-This is my fork of 'Beautiful Jekyll' used for the creation of my personal page. Original README.me content below ->
+This is my fork of 'Beautiful Jekyll' used for the creation of my personal page. 
+Original README.me content below ->
 ```
 
 
