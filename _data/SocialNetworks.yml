@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+blogger:
+  name: "Blogspot"
+  baseUrl: "http://www.blogspot.com/"
+  icon: "fa-blogger"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
