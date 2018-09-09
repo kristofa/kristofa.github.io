@@ -69,7 +69,7 @@ youtube:
 pinboard:
   name: "Pinboard"
   baseURL: "https://pinboard.in/"
-  icon: "fa-pushpin"
+  icon: "fa-thumb-tack"
 
 soundcloud:
   name: "SoundCloud"
