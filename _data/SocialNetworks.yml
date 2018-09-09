@@ -66,6 +66,11 @@ youtube:
   baseURL: "https://www.youtube.com/"
   icon: "fa-youtube"
 
+soundcloud:
+  name: "SoundCloud"
+  baseURL: "https://soundcloud.com"
+  icon: "fa-soundcloud"
+
 spotify:
   name: "Spotify"
   baseURL: "https://open.spotify.com/user/"
