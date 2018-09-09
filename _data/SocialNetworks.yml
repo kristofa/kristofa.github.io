@@ -9,7 +9,7 @@
 blogger:
   name: "Blogspot"
   baseUrl: "http://{{ site.author.blogspot }}.blogspot.com"
-  icon: "fa-pen-square"
+  icon: "fa-pencil"
 
 facebook:
   name: "Facebook"
