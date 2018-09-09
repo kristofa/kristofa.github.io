@@ -1,3 +1,9 @@
+```
+This is my fork of 'Beautiful Jekyll' used for the creation of my personal page. Original README.me content below ->
+```
+
+
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
