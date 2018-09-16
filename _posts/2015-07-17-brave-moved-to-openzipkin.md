@@ -6,7 +6,7 @@ tags: [zipkin, brave, openzipkin, distributedtracing]
 
 Yesterday I moved brave from https://github.com/kristofa/brave to [https://github.com/openzipkin/brave](https://github.com/openzipkin/brave)
 
-I started brave in April 2013 after I saw a presentation about Zipkin but soon found out that integrating Zipkin in a Spring Java app was not that straight forward.  I started it on github thinking it might be useful to others... and here we are today:
+I started brave in April 2013 after I saw a presentation about [Zipkin](https://zipkin.io) but soon found out that integrating Zipkin in a Spring Java app was not that straight forward.  I started it on github thinking it might be useful to others... and here we are today:
 
 
    * Brave has 229 stars
