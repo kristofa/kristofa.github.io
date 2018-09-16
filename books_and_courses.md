@@ -18,7 +18,6 @@ In no particular order:
 
 ## Professional
 
-List of books and courses I found inspiring especially since stepping into an Engineering Manager role.
 
 ### Books
 
@@ -32,6 +31,7 @@ In no particular order:
    * [Douglas Stone, Bruce Patton, Sheila Heen - Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
    * [Joan C. Williams, Rachel Dempsey, Anne-Marie Slaughter - What Works for Women at Work](https://www.goodreads.com/book/show/17920210-what-works-for-women-at-work)
    * [Kim Malone Scott - Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor)
+   * [Martin Kleppmann - Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 
 
 
