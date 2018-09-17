@@ -5,9 +5,7 @@ title: About me
 
 
 I'm working as an Engineering Manager at [SoundCloud](https://soundcloud.com).
-
-I like to build and support diverse teams and be part of them.
-I get energy from seeing a team and its members feel good, grow, and deliver great work. 
+I like to build and support diverse teams and be part of them. 
 
 Having a positive impact is really important for me and there is a lot we can do to make a better and more sustainable future for all of us. I'm interested in organisations and teams that contribute to reach one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.
 
