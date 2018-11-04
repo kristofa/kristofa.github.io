@@ -29,7 +29,7 @@ Once I got a first version working I shared it in the Zipkin google group and it
 
 Brave suddenly got several interested adopters and contributors which was exciting and I spent quite some free time following up community requests, reviewing pull requests and making improvements.  Fairly soon also [Adrian Cole](https://twitter.com/adrianfcole) who worked at Twitter at that time got involved.  He had great suggestions and spent a lot of time helping and contributing.  He became the driving force behind the Zipkin community.
 
-My work on Brave also got the attention of SoundCloud who was also moving to a microservices architecture. After some exchange of emails they invited me to go through the job interview process. This resulted in me moving to Berlin and start working at SoundCloud.
+My work on Brave also got the attention of SoundCloud who was also moving to a microservices architecture. After some exchange of emails they invited me to go through the job interview process. This resulted in me moving to Berlin and starting to work at SoundCloud in September 2014.
 
 Around mid 2015 all core Zipkin related repositories were moved to the OpenZipkin org and in July 2015 I also moved brave from my personal github account to the OpenZipkin organisation (see my blog post [Brave moved to OpenZipkin org](../2015-07-17-brave-moved-to-openzipkin/)).
 
