@@ -3,9 +3,17 @@ layout: page
 title: About me
 ---
 
+# Professional
 
-I'm working as an Engineering Manager at [SoundCloud](https://soundcloud.com).
-I like to build and support diverse teams and be part of them. 
+I'm currently working as an Engineering Manager at [SoundCloud](https://soundcloud.com) where I'm leading a diverse team.
+
+Important goals for me as a manager:
+   * building trust
+   * creating clarity
+   * listening, supporting and growing the team and the individuals
+   * create an environment where the team is empowered
+
+I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice and helped getting teams through reorganisations.  Before stepping into the Engineering Manager role I was a Software Engineer for many years and I stay up to date with our technologies, practices and development environment.
 
 Having a positive impact is really important for me and there is a lot we can do to make a better and more sustainable future for all of us. I'm interested in organisations and teams that contribute to reach one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.
 
