@@ -23,13 +23,12 @@ My most impactful publicly available work is probably a Java library called [Bra
 
 I like swimming, cooking, listening to music, reading, meeting friends for lunch or dinner, walking or resting in nature.
 
-Several occurrences in recent years like my move to Berlin, Germany in 2014, the 'refugee crisis', brexit, the election of Trump and [The Age of Sustainable Development Coursera course](2) has made me more conscious about the need for a more inclusive, compassionate and sustainable future with respect for our planetary boundaries.  
+Several occurrences in recent years like my move to Berlin, Germany in 2014, the 'refugee crisis', brexit, the election of Trump and [The Age of Sustainable Development Coursera course](https://www.coursera.org/learn/sustainable-development) has made me more conscious about the need for a more inclusive, compassionate and sustainable future with respect for our planetary boundaries.  
 
 That's why I'm interested in joining organisations and teams that contribute to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.  Having a positive impact is really important for me and there is a lot we can do to make a better and more sustainable future for all of us.
 
 
 
-
 [1]: https://github.com/openzipkin/brave
-[2]: https://www.coursera.org/learn/sustainable-development
+
 
