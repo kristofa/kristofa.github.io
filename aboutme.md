@@ -12,7 +12,7 @@ As a music and podcast fan being able to use my Software Engineering skills and 
 My aim as an Engineering Manager is to create an environment and conditions so the team can do its best work.
 This includes making sure there is trust, creating clarity, listening, supporting and growing the team and the individuals and making sure the team is empowered to make decisions and drive change.
 
-I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice and helped getting teams through organisational changes. 
+I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice, dealt with conflicts and helped getting teams through organisational changes. 
 
 Before stepping into the Engineering Manager role I worked as a Software Engineer and Software Architect for many years but I believe that at this point in my career I can bring more value as an Engineering Manager. For more details about my career path, see LinkedIn.
 
