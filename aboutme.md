@@ -14,14 +14,22 @@ This includes making sure there is trust, creating clarity, listening, supportin
 
 I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice and helped getting teams through organisational changes. 
 
-Before stepping into the Engineering Manager role I worked as a Software Engineer and Software Architect for many years but I believe that at this point in my career I can bring more value as an Engineering Manager. For more details about my career path, see [LinkedIn](https://www.linkedin.com/in/kristof-adriaenssens-8a481619/).
+Before stepping into the Engineering Manager role I worked as a Software Engineer and Software Architect for many years but I believe that at this point in my career I can bring more value as an Engineering Manager. For more details about my career path, see LinkedIn.
 
 My most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). 
 
-Having a positive impact is really important for me and there is a lot we can do to make a better and more sustainable future for all of us. I'm interested in organisations and teams that contribute to reach one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.
+
+# Personal
+
+I like swimming, cooking, listening to music, reading, meeting friends for lunch or dinner, walking or resting in nature.
+
+Several occurrences in recent years like my move to Berlin, Germany in 2014, the 'refugee crisis', brexit, the election of Trump and [The Age of Sustainable Development Coursera course](2) has made me more conscious about the need for a more inclusive, compassionate and sustainable future with respect for our planetary boundaries.  
+
+That's why I'm interested in joining organisations and teams that contribute to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.  Having a positive impact is really important for me and there is a lot we can do to make a better and more sustainable future for all of us.
+
 
 
 
 [1]: https://github.com/openzipkin/brave
-
+[2]: https://www.coursera.org/learn/sustainable-development
 
