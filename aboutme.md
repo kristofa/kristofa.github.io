@@ -7,35 +7,19 @@ title: About me
 
 I'm currently working as an Engineering Manager at [SoundCloud](https://soundcloud.com) where I'm leading a diverse team.
 
-Important goals for me as a manager:
-   * building trust
-   * creating clarity
-   * listening, supporting and growing the team and the individuals
-   * create an environment where the team is empowered
+As a music and podcast fan being able to use my Software Engineering skills and experience for a company like SoundCloud that supports [creators](https://creators.soundcloud.com) and makes it easy for creators to connect with fans directly while also [allowing them to make money](https://creators.soundcloud.com/monetization) is very rewarding. 
 
-I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice and helped getting teams through reorganisations.  Before stepping into the Engineering Manager role I was a Software Engineer for many years and I stay up to date with our technologies, practices and development environment.
+My aim as an Engineering Manager is to create an environment and conditions so the team can do its best work.
+This includes making sure there is trust, creating clarity, listening, supporting and growing the team and the individuals and making sure the team is empowered to make decisions and drive change.
+
+I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice and helped getting teams through organisational changes. 
+
+Before stepping into the Engineering Manager role I worked as a Software Engineer and Software Architect for many years but I believe that at this point in my career I can bring more value as an Engineering Manager. For more details about my career path, see [LinkedIn](https://www.linkedin.com/in/kristof-adriaenssens-8a481619/).
+
+My most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). 
 
 Having a positive impact is really important for me and there is a lot we can do to make a better and more sustainable future for all of us. I'm interested in organisations and teams that contribute to reach one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.
 
-## The story about 'brave'
-
-In 2013 I saw a presentation about [Zipkin](https://zipkin.io) which was built at Twitter and based on the [Google Dapper paper](https://ai.google/research/pubs/pub36356).
-
-It made me decide to build a Java library called [Brave][1] which is compatible with Zipkin and can be integrated in Spring Java microservices. Brave allowed my to introduce Distributed Tracing in the microservices at my employer at that time.  I built Brave in my spare time and made it available on github using the Apache Version 2.0 license.
-
-Once I got a first version working I shared it in the Zipkin Google group and it received attention immediately. With many companies adopting a microservices architecture around 2013 / 2014 it seems like it was the perfect moment to start an open source distributed tracing solution that integrated with mainstream technologies like Java Spring.
-
-Brave suddenly got several interested adopters and contributors which was exciting and I spent quite some free time following up community requests, reviewing pull requests and making improvements.  Fairly soon also [Adrian Cole](https://twitter.com/adrianfcole) who worked at Twitter at that time got involved.  He had great suggestions and spent a lot of time helping and contributing.  He became the driving force behind the Zipkin community.
-
-My work on Brave also got the attention of SoundCloud who was also moving to a microservices architecture. After some exchange of emails they invited me to go through the job interview process. This resulted in me moving to Berlin and starting to work at SoundCloud in September 2014.
-
-Around mid 2015 all core Zipkin related repositories were moved to the OpenZipkin org and in July 2015 I also moved brave from my personal github account to the OpenZipkin organisation (see my blog post [Brave moved to OpenZipkin org](../2015-07-17-brave-moved-to-openzipkin/)).
-
-I kept working on brave till v3.0.0. After that I started having other priorities and stopped most involvement.  
-
-Brave still exists, is in active development, and is officially integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/).
-
-The example of Brave shows how powerful sharing your ideas and work can be.  Besides learning from the community it gave me additional exposure and had a huge impact on my life. I moved to a new country and started a new job which was a great experience.
 
 
 [1]: https://github.com/openzipkin/brave
