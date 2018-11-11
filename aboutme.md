@@ -14,7 +14,7 @@ This includes making sure there is trust, creating clarity, listening, supportin
 
 I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice, dealt with conflicts and helped getting teams through organisational changes. 
 
-Before stepping into the Engineering Manager role I worked as a Software Engineer and Software Architect for many years but I believe that at this point in my career I can bring more value as an Engineering Manager. For more details about my career path, see LinkedIn.
+Before stepping into the Engineering Manager role I worked as a Software Engineer and Software Architect for many years but I believe that at this point in my career I can bring more value as an Engineering Manager. For more details about my career path, see [LinkedIn](https://linkedin.com/in/kristof-adriaenssens-8a481619).
 
 My most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). 
 
