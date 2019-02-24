@@ -7,7 +7,7 @@ title: About me
 
 I'm currently working as an Engineering Manager at [SoundCloud](https://soundcloud.com) where I'm leading a diverse team.
 
-As a music and podcast fan being able to use my Software Engineering skills and experience for a company like SoundCloud that supports [creators](https://creators.soundcloud.com) and makes it easy for creators to connect with fans directly while also [allowing them to make money](https://creators.soundcloud.com/monetization) is very rewarding. 
+As a music and podcast fan being able to use my Software Engineering skills and experience for a company like SoundCloud that supports [creators](https://creators.soundcloud.com) by letting them connect with fans directly, [allowing them to make money](https://creators.soundcloud.com/monetization) and [distribute to other music services](https://blog.soundcloud.com/2019/02/19/beta-release-of-soundcloud-premier-distribution/) is very rewarding. 
 
 My aim as an Engineering Manager is to create an environment and conditions so the team can do its best work.
 This includes making sure there is trust, creating clarity, listening, supporting and growing the team and the individuals and making sure the team is empowered to make decisions and drive change.
