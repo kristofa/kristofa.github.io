@@ -4,6 +4,8 @@ title: Wonen en werken in Berlijn, Duitsland
 tags: [duitsland, belgië, nederlands, vlaanderen, berlijn]
 ---
 
+_This post is written in Dutch as it compares living and working in Berlin, Germany with Flanders, Belgium. I think the comparisons and insights are most useful for people living in Flanders whose main language is Dutch._
+
 Ik heb de eerste 35 jaar van mijn leven in Vlaanderen, België gewoond, en het grootste gedeelte van mijn volwassen leven woonde ik in Gent.  Bijna 5 jaar geleden ben ik samen met mijn partner verhuisd van Gent naar Berlijn. De reden van de verhuis was een job bij [SoundCloud](https://soundcloud.com) die ik niet aan me wou laten voorbij gaan.
 
 Het leven is hier anders en Ik denk dat het interessant kan zijn om inzichten en ervaringen te delen.
