@@ -51,7 +51,7 @@ Tijdens de EU-vluchtelingencrisis die begon in 2015 kwamen er [enkel in het eers
 
 [België heeft een grote belastingdruk op arbeid][7] maar mijn ervaring toont dat wat je netto ontvangt best meevalt vergeleken met mijn situatie in Duitsland. Dit ook mede door de uitzonderingen en voordelen die je ofwel niet hebt in Duitsland of die er minder evident zijn.
 
-Bij mijn job in België had ik maaltijdcheques, ecocheques, vakantiegeld, dertiende maand, reiskostenvergoeding (onbelaste fietsvergoeding), groepsverzekering en een premie voor een salariswagen.  Ik verkoos een premie in plaats van een salariswagen omdat ik in Gent werkte en woonde en ik met de fiets naar kantoor ging. Aangezien ik kort bij het werk woonde en geen auto nodig had voor mijn werk vond ik het absurd om een salariswagen te nemen enkel voor privé gebruik. [De premie is niet zoveel waard als het werkelijke gebruik van de auto omdat ze bij het brutoloon geteld wordt en dus zwaarder belast wordt][8], maar dat was dan maar zo. Mijn partner had een auto, eerst een salariswagen maar de laatste jaren een eigen wagen.
+Bij mijn job in België had ik maaltijdcheques, ecocheques, vakantiegeld, dertiende maand, reiskostenvergoeding (onbelaste fietsvergoeding), groepsverzekering en een premie voor een salariswagen.
 
 In Berlijn heb ik geen salariswagen, geen dertiende maand, vakantiegeld of maaltijd- en ecocheques of reiskostenvergoeding.  Wel hebben we twee maal per week gratis lunch en  een jaarlijks learning & development en wellness budget. Ook heb ik het equivalent van een groepsverzekering waar zoals in België een deel wordt bijgedragen door de werkgever en een deel door de werknemer. In Berlijn heb ik 28 betaalde vakantiedagen wat min of meer overeenstemt met wat ik had in België. 
 
