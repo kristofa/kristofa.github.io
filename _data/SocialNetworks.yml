@@ -21,6 +21,11 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
 
+goodreads:
+  name: "Goodreads"
+  baseURL: "https://www.goodreads.com/review/list/"
+  icon: "fa-book"
+
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
