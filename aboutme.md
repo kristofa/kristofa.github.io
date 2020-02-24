@@ -25,7 +25,7 @@ I like swimming, cooking, listening to music, reading, meeting friends, photogra
 
 Several occurrences in recent years like my move to Berlin, Germany in 2014, the 'refugee crisis', brexit, the election of Trump and [The Age of Sustainable Development Coursera course](https://www.coursera.org/learn/sustainable-development) has made me more conscious about the need for a more inclusive, compassionate and sustainable future with respect for our planetary boundaries.  
 
-That's why I'm interested in joining organisations and teams that contribute to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.  Having a positive impact in peoples lives and for our society is important for me.
+That's why I'm interested in joining organisations and teams that contribute to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.
 
 
 
