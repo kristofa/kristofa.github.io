@@ -26,5 +26,3 @@ The move to the openzipkin org does not mean I will abandon brave. I still have 
 
 Cheers,
 Kristof
-
-_Originally posted [here](http://kdevlog.blogspot.com/2015/07/brave-moved-to-openzipkin-org.html)_
