@@ -16,7 +16,7 @@ I have experience with hiring and onboarding team members. I helped growing care
 
 Before stepping into the management path I worked as a Software Engineer and Software Architect for many years. For more details about my career path, see [LinkedIn](https://linkedin.com/in/kristof-adriaenssens-8a481619).
 
-My most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). 
+My most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). If you're interested to know more you can read [the story about OpenZipkin's 5th year anniversary](https://github.com/openzipkin/openzipkin.github.io/wiki/OpenZipkin's-5-year-anniversary).
 
 
 # Personal
