@@ -4,7 +4,7 @@ title: Wonen en werken in Berlijn, Duitsland
 tags: [duitsland, belgië, nederlands, vlaanderen, berlijn]
 ---
 
-_This post is written in Dutch as it compares living and working in Berlin, Germany with Flanders, Belgium. I think the comparisons and insights are most useful for people living in Flanders whose main language is Dutch._
+_This post is written in Dutch as it compares living and working in Berlin, Germany with Flanders, Belgium. The comparisons and insights are most useful for people living in Flanders whose main language is Dutch._
 
 Ik heb de eerste 35 jaar van mijn leven in Vlaanderen, België gewoond, en het grootste gedeelte van mijn volwassen leven woonde ik in Gent.  Bijna 5 jaar geleden ben ik samen met mijn partner verhuisd van Gent naar Berlijn. De reden van de verhuis was een job bij [SoundCloud](https://soundcloud.com) die ik niet aan me wou laten voorbij gaan.
 
@@ -16,7 +16,7 @@ Berlijn is zeer uitgestrekt maar als bewoner hoef je voor de meeste zaken niet b
 
 Berlijn heeft iets meer dan de helft van het aantal inwoners ([3.7 miljoen eind 2018][16]) vergeleken met Vlaanderen op een derde van de oppervlakte van Oost-Vlaanderen. Toch voelt de stad voor mij op vele plaatsen minder druk dan pakweg Gent of Antwerpen.
 
-Eén van de redenen hiervoor is volgens mij de breedte van de straten en voetpaden. In België kan je in de meeste steden amper met twee naast mekaar lopen op het voetpad. In Berlijn zijn de meeste voetpaden minstens zo een vier meter breed. Ik snap dat men in België de middeleeuwse stadscentra wil behouden maar als de stad uitbreidt zou men hier toch kunnen van afwijken. De breedte van de straten in Berlijn, vaak ook met bomen langs beide kanten van de straat, geeft veel meer ruimtegevoel en voelt minder druk aan.  De bomen in de straten zorgen ook voor schaduw wat zeer welkom is tijdens warme zomers zoals vorig jaar. De straten nodigen uit tot wandelen en verkennen.
+Eén van de redenen hiervoor is volgens mij de breedte van de straten en voetpaden. In België kan je in de meeste steden amper met twee naast mekaar lopen op het voetpad. In Berlijn zijn de meeste voetpaden minstens zo een vier meter breed. Ik begrijp dat men in België de middeleeuwse stadscentra wil behouden maar als de stad uitbreidt zou men hier toch kunnen van afwijken? De breedte van de straten in Berlijn, vaak ook met bomen langs beide kanten van de straat, geeft veel meer ruimtegevoel en voelt minder druk aan.  De bomen in de straten zorgen ook voor schaduw wat zeer welkom is tijdens warme zomers zoals vorig jaar. De straten nodigen uit tot wandelen en verkennen.
 
 De brede voetpaden betekenen ook genoeg plaats voor terrasjes voor restaurants, koffiezaken of cafés en ze worden ook gebruikt door kinderen wanneer ze met de fiets naar school gaan vooral op plaatsen waar er geen aparte fietspaden zijn.
 
@@ -39,7 +39,10 @@ Er zijn dikwijls ook schommels of andere speeltuigen voor kinderen. Het is een o
 !["Weinbergspark"](../img/wonen-werken-in-berlijn-weinbergspark-1.jpg)<br>
 *Weinbergspark*
 
-Berlijn heeft ook goede sportinfrastructuur zeker als het op zwemmen aankomt. Als wekelijkse zwemmers hebben we binnen een straal van 4 km drie 50 meter zwembaden ter beschikking. In de lente en zomer (1 mei tot 31 augustus) komen er ook nog eens twee openluchtzwembaden bij, eveneens 50m, met aparte voorzieningen voor babies en kinderen.  Dit zijn publieke zwembaden, gefinancierd met belastingsgeld.
+
+De huurprijzen zijn vooral de laatste jaren duidelijk duurder geworden in Berlijn vergeleken met Vlaanderen. De meeste andere zaken zoals levensmiddelen, restaurantbezoeken, kosten telecomdiensten zijn dan weer goedkoper dan in Vlaanderen.  De energiekosten in Duitsland zijn duur maar voor ons minder duur dan in België. Dit komt waarschijnlijk doordat we kleiner wonen in een goed geïsoleerd appartement die verwarmd wordt met [“stadsverwarming”][9].
+
+Berlijn heeft goede sportinfrastructuur zeker als het op zwemmen aankomt. Als wekelijkse zwemmers hebben we binnen een straal van 4 km drie 50 meter zwembaden ter beschikking. In de lente en zomer (1 mei tot 31 augustus) komen er ook nog eens twee openluchtzwembaden bij, eveneens 50m, met aparte voorzieningen voor babies en kinderen.  Dit zijn publieke zwembaden, gefinancierd met belastingsgeld.
 
 Elke buurt heeft zijn eigen karakter en er zijn ook buurten die nog eerder als een dorp aanvoelen zoals Alt Tegel, wat vroeger ook een apart dorp was maar inmiddels deel van Berlijn.
 
@@ -56,8 +59,6 @@ Bij mijn job in België had ik maaltijdcheques, ecocheques, vakantiegeld, dertie
 In Berlijn heb ik geen salariswagen, geen dertiende maand, vakantiegeld of maaltijd- en ecocheques of reiskostenvergoeding.  Wel hebben we twee maal per week gratis lunch en  een jaarlijks learning & development en wellness budget. Ook heb ik het equivalent van een groepsverzekering waar zoals in België een deel wordt bijgedragen door de werkgever en een deel door de werknemer. In Berlijn heb ik 28 betaalde vakantiedagen wat min of meer overeenstemt met wat ik had in België. 
 
 Als ik bruto met netto salarissen vergelijk tussen België en Berlijn lijkt er me niet zoveel verschil en kan België zelfs voordeliger uitkomen als je voordelen als een salariswagen in rekening brengt die vooral ten goede komen aan de beter verdienende middenklasse.
-
-Wel hebben we gemerkt dat terwijl in Berlijn de huurprijzen vooral de laatste jaren duurder geworden zijn dan in Gent de meeste andere zaken zoals levensmiddelen, restaurantbezoeken, kosten telecomdiensten, goedkoper zijn dan in Vlaanderen.  De energiekosten in Duitsland zijn duur maar voor ons minder duur dan in België. Dit komt waarschijnlijk doordat we kleiner wonen in een goed geïsoleerd appartement die verwarmd wordt met [“stadsverwarming”][9].
 
 De grootte van de stad, de diversiteit en internationaal karakter, en het groot aanbod van ICT jobs, maakt dat de stad aantrekkelijk is voor jonge mensen op zoek naar werk.  Bij SoundCloud werkten in 2014 meer dan 30 verschillende nationaliteiten.  De visie van de oprichters van SoundCloud was dat doordat ze een wereldwijd platform bouwden ze  ook talent uit de ganse wereld wilden aanwerven op locaties, zoals Berlijn, waar mensen bereid zijn om heen te verhuizen. In die opzet zijn ze zeker geslaagd.  Het kunnen werken in een dynamisch, internationale omgeving met gemotiveerde en gedreven mensen heeft me al veel bijgebracht. De collega’s die ik leerde kennen appreciëren de goede sociale voorzieningen, vrijheid en openheid, kwaliteit van het leven in de stad en de verschillende culturen en landen in Europa die makkelijk te bezoeken zijn.  De meesten blijven een aantal jaar maar hebben ondertussen wel belastingen betaald, ervaring opgedaan, kennis gedeeld en hun wereldbeeld verruimd. Naar mijn mening positief voor iedereen dus.
 
