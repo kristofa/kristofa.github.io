@@ -3,29 +3,42 @@ layout: page
 title: About me
 ---
 
+
+# Resume
+
+You can find more information including contact information [in my resume](../doc/Kristof_Adriaenssens_Resume_public.pdf).
+
 # Professional
 
-My current role is Director of Engineering, Content at [SoundCloud](https://soundcloud.com) where I'm leading a diverse team.
 
-As a music and podcast fan being able to use my software engineering and leadership skills for a company like SoundCloud that supports [creators](https://creators.soundcloud.com) by letting them connect with fans directly, [allowing them to make money](https://creators.soundcloud.com/monetization) and [distribute to other music services](https://blog.soundcloud.com/2019/02/19/beta-release-of-soundcloud-premier-distribution/) is very rewarding. 
+After almost 6 great years I’ve decided to leave [SoundCloud](https://soundcloud.com) at the end of May 2020.
+After a break I’ll be moving from Berlin back to Ghent, Belgium in August 2020.
 
+This means that I’m looking for my next role ideally in Ghent or potentially also in Antwerp or Brussels.
+I’m also considering remote work after my experience with working fully remote for about two months due to the covid-19 crisis.
+
+I’m an engineering leader who likes to work at the intersection of Technology, Product and Delivery.
 My aim as a leader is to create an environment and conditions so the team can do its best work.
 This includes making sure there is trust, creating clarity, listening, supporting and growing the team and the individuals and making sure the team is empowered to make decisions and drive change.
 
-I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice, dealt with conflicts and helped getting teams through organisational changes. Since recently I have some experience with managing other managers. 
+At SoundCloud I was leading the teams responsible for ingesting commercial content, content protection and content authorisation.
 
-Before stepping into the management path I worked as a Software Engineer and Software Architect for many years. For more details about my career path, see [LinkedIn](https://linkedin.com/in/kristof-adriaenssens-8a481619).
+I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice, dealt with conflicts and helped getting teams through organisational changes. Since recently I have some experience with managing other managers.
 
-My most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). If you're interested to know more you can read [the story about OpenZipkin's 5th year anniversary](https://github.com/openzipkin/openzipkin.github.io/wiki/OpenZipkin's-5-year-anniversary).
+Before taking a leadership position in 2016 I had 15+ years of experience working as a software engineer.
+
+I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, hiring, delivery, people management, operations, planning, technical decision making, purpose, working with the product organisation.  
+
+With the current economic crisis as a result of the covid-19 pandemic flexibility and openness for new ideas are even more important than before so I'm up for being surprised and open for suggestions about other roles.
+
+I’m open to both product or service companies. It would be great if I can join a company that contributes to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org).
+
+As a Software Engineer, my most impactful publicly available work is probably a Java library called [Brave][1].  Brave is a Distributed Tracing library. It became part of [OpenZipkin](../2015-07-17-brave-moved-to-openzipkin/) in 2015 and is integrated in the [Spring framework](https://spring.io) as part of [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/). If you're interested to know more you can read [the story about OpenZipkin's 5th year anniversary](https://github.com/openzipkin/openzipkin.github.io/wiki/OpenZipkin's-5-year-anniversary).
 
 
 # Personal
 
 I like swimming, cooking, listening to music, reading, meeting friends, photography and walking or resting in nature.
-
-Several occurrences in recent years like my move to Berlin, Germany in 2014, the 'refugee crisis', brexit, the election of Trump and [The Age of Sustainable Development Coursera course](https://www.coursera.org/learn/sustainable-development) has made me more conscious about the need for a more inclusive, compassionate and sustainable future with respect for our planetary boundaries.  
-
-That's why I'm interested in joining organisations and teams that contribute to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org) or work in the field of Social Innovation.
 
 
 
