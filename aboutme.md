@@ -29,7 +29,7 @@ Before taking a leadership position in 2016 I had 15+ years of experience workin
 
 I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, sofware development process, people management, working with operations, planning, technical decision making, purpose, working with the product organisation, hiring.  
 
-With the current economic crisis as a result of the covid-19 pandemic flexibility and openness for new ideas are even more important than before so I'm up for being surprised and open for suggestions about other roles.
+With the current economic crisis as a result of the covid-19 pandemic flexibility and openness to new ideas is even more important than before so I'm up for being surprised and open to suggestions about other roles.
 
 I’m open to both product or service companies. It would be great if I can join a company that contributes to reaching one or more of the [UN Sustainable Development Goals](https://www.globalgoals.org).
 
