@@ -21,7 +21,7 @@ I’m an engineering leader who likes to work at the intersection of Technology,
 My aim as a leader is to create an environment and conditions so the team can do its best work.
 This includes making sure there is trust, creating clarity, listening, supporting and growing the team and the individuals and making sure the team is empowered to make decisions and drive change.
 
-At SoundCloud I was leading the teams responsible for ingesting commercial content, content protection and content authorisation.
+At SoundCloud I was leading the teams responsible for ingesting commercial content, content identification and content authorisation.
 
 I have experience with hiring and onboarding team members. I helped growing careers, assisted moving people into the job of their choice, dealt with conflicts and helped getting teams through organisational changes. Since recently I have some experience with managing other managers.
 
