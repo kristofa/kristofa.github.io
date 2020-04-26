@@ -27,7 +27,7 @@ I have experience with hiring and onboarding team members. I helped growing care
 
 Before taking a leadership position in 2016 I had 15+ years of experience working as a software engineer.
 
-I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, sofware development process, delivery, people management, working with operations, planning, technical decision making, purpose, working with the product organisation, hiring.  
+I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, sofware development process, people management, working with operations, planning, technical decision making, purpose, working with the product organisation, hiring.  
 
 With the current economic crisis as a result of the covid-19 pandemic flexibility and openness for new ideas are even more important than before so I'm up for being surprised and open for suggestions about other roles.
 
