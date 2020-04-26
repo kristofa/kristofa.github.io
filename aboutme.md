@@ -15,7 +15,7 @@ After almost 6 great years I’ve decided to leave [SoundCloud](https://soundclo
 After a break I’ll be moving from Berlin back to Ghent, Belgium in August 2020.
 
 This means that I’m looking for my next role ideally in Ghent or potentially also in Antwerp or Brussels.
-I’m also considering remote work after my experience with working fully remote for about two months due to the covid-19 crisis.
+I’m also considering remote work after my experience with working fully remote due to the covid-19 crisis.
 
 I’m an engineering leader who likes to work at the intersection of Technology, Product and Delivery.
 My aim as a leader is to create an environment and conditions so the team can do its best work.
@@ -27,7 +27,7 @@ I have experience with hiring and onboarding team members. I helped growing care
 
 Before taking a leadership position in 2016 I had 15+ years of experience working as a software engineer.
 
-I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, hiring, delivery, people management, operations, planning, technical decision making, purpose, working with the product organisation.  
+I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, sofware development process, delivery, people management, working with operations, planning, technical decision making, purpose, working with the product organisation, hiring.  
 
 With the current economic crisis as a result of the covid-19 pandemic flexibility and openness for new ideas are even more important than before so I'm up for being surprised and open for suggestions about other roles.
 
