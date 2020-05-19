@@ -4,7 +4,9 @@ title: Bookmarker for pinboard
 tags: [pinboard, safari, safari app extension, macOS]
 ---
 
-I'm a [Pinboard](https://pinboard.in) user and I noticed that since upgrading to Safari 12 the existing Pinboard extensions that are distributed as `.safariextz` files were not officially supported anymore.  Instead Apple introduced a new [Safari App Extension Architecture](https://developer.apple.com/documentation/safariservices/safari_app_extensions). These new type of extensions are developed using Xcode and allow you to use native code ( Objective-C or Swift) besides JavaScript and CSS to inspect, read or manipulate web pages. Safari App Extensions can also be distributed using the macOS App Store.  
+I'm a [Pinboard](https://pinboard.in) user and I noticed that since upgrading to Safari 12 the existing Pinboard extensions that are distributed as `.safariextz` files were not officially supported anymore.  
+
+Instead Apple introduced a new [Safari App Extension Architecture](https://developer.apple.com/documentation/safariservices/safari_app_extensions). These new type of extensions are developed using Xcode and allow you to use native code ( Objective-C or Swift) besides JavaScript and CSS to inspect, read or manipulate web pages. Safari App Extensions can also be distributed using the macOS App Store.  
 
 I couldn't find a Pinboard extension in the App Store and so I thought it might be an interesting small personal project to try to create a minimal Pinboard Safari App Extension and get it in the App Store. I started the project for 3 main reasons:
 
