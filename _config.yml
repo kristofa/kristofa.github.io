@@ -71,7 +71,6 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: true
   email: "kristof@kristofa.eu"
 #  facebook: daattali
   github: kristofa
@@ -80,6 +79,7 @@ social-network-links:
   pinboard: u:kristofa
   soundcloud: kristof-adriaenssens
   twitter: KristofAdr
+  rss: true
    
 #  reddit: yourname
 #  google-plus: +DeanAttali
