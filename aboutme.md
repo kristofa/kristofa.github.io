@@ -22,7 +22,7 @@ I have a deep interest in Agile methodologies and DevOps / DevSecOps and I love 
 
 At SoundCloud I was leading the teams responsible for ingesting commercial content, content identification and content authorisation.
 
-I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, sofware development process, supporting people, working with operations, planning, technical decision making, purpose, working with the product organisation, hiring.  
+I’m looking for a Team Lead / Engineering Manager role and can help teams with: ways of working, sofware development process, people management, working with operations, planning, technical decision making, purpose, working with the product organisation, hiring.
 
 Before taking a leadership position in 2016 I had 15+ years of experience working as a software engineer.
 
