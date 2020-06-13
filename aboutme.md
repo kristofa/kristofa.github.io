@@ -8,7 +8,7 @@ title: About me
 
 15+ years of experience as a Software Engineer. Moved into an Engineering Manager position in 2016 and in a Director role in 2019. 
 
-I’m an engineering leader who likes to work at the intersection of Technology, Product and Delivery. I have a deep interest in Agile methodologies and DevOps / DevSecOps and I love to work on products that matter and serve people’s needs.
+I’m an engineering leader who likes to work at the intersection of Technology, Product and Delivery. I have an interest in Agile methodologies and DevOps / DevSecOps, I love to work on products that matter and serve people’s needs and I care about people and Diversity & Inclusion.
 
 I like building and growing a team and enable them to do their best work. This includes making sure there is trust, creating clarity, and supporting and help growing the team and the individuals. I want to empower the team so they can make decisions, drive change and deliver value.
 
