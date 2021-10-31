@@ -5,6 +5,7 @@ tags: [software development, predictability, Shift by In The Pocket, Daniel Vaca
 ---
 
 The question `when will it be done?` is a question every team that's building software has to answer at some point.
+
 Customers or business stakeholders want to know when a specific set of functionality will be ready or they want to know what scope of functionality they can get by a given date. 
 
 In my experience the question 'when will it be done?' results in an estimation meeting that mostly involved doing story point estimates. No one likes these meetings and no one really believes in the estimated release date. That's why I got really interested when I learned about a year ago about [the books Daniel Vacanti wrote](https://www.amazon.com/Daniel-Vacanti/e/B013ZZLLNG%3Fref=dbs_a_mng_rwt_scns_share) on the subject of predictability with the hope to learn about better ways. The books didn't disappoint.
