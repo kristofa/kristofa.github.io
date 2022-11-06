@@ -24,7 +24,7 @@ The project explained below is also available on [GitHub](https://github.com/kri
 
 ## Adding a new menu item to the Maven site
 
-!["Maven project directory structure"](../img/2013-02-18-plantuml_maven_site.png)<br>
+!["Maven project directory structure"](../assets/img/2013-02-18-plantuml_maven_site.png)<br>
 
 First we will add the new "Architecture" section to our site. To do this you'll have to create a file named `src/site/site.xml` in your project directory. See above screenshot.
 
@@ -136,7 +136,7 @@ As mentioned earlier `site-deploy` is also executed by the Maven Release Plugin 
 
 Screenshot of the resulting site which is generated in `target/site` :
 
-!["Maven site with integrated PlantUML diagram"](../img/2013-02-18-maven_site_plantuml_example
+!["Maven site with integrated PlantUML diagram"](../assets/img/2013-02-18-maven_site_plantuml_example
 .png)<br>
 
 Get the example project in [Github](https://github.com/kristofa/plantuml-site-example).

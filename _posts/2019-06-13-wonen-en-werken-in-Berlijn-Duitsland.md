@@ -22,21 +22,21 @@ De brede voetpaden betekenen ook genoeg plaats voor terrasjes voor restaurants, 
 
 Het stratenplan heeft haast een gridstructuur die bestaat uit enerzijds grote lanen met meerdere rijvakken in beide richtingen met daartussen kleinere straten.  Langs de grote lanen komt het meeste verkeer waardoor de kleinere straten rustiger zijn.  
 
-!["Zicht op Fernsehturm vanuit de Strelitzerstrasse"](../img/wonen-werken-in-berlijn-fernsehnturm-1.jpg)<br>
+!["Zicht op Fernsehturm vanuit de Strelitzerstrasse"](../assets/img/wonen-werken-in-berlijn-fernsehnturm-1.jpg)<br>
 *Zicht op Fernsehturm vanuit de Strelitzerstrasse*
 
-!["Typische Berlijnse straat in Moabit"](../img/wonen-werken-in-berlijn-moabit-1.jpg)<br>
+!["Typische Berlijnse straat in Moabit"](../assets/img/wonen-werken-in-berlijn-moabit-1.jpg)<br>
 *Typische Berlijnse straat in Moabit*
 
 Bredere straten en voetpaden maar toch met meer wonen op minder oppervlakte betekent dat mensen dichter bij mekaar en kleiner wonen. Wij wonen met twee personen in een appartement van 90m2 met een terras, wat niet klein is naar Berlijnse normen.  Je vindt praktisch geen vrijstaande eengezinswoningen met tuin. Iedereen woont in een appartementsgebouw, bijna allemaal 5 of 6 verdiepingen hoog, dikwijls met een gedeelde binnenhof en soms een tuin.  De gedeelde tuin kan ingericht zijn met speeltuigen voor kinderen en de kinderen van bewoners kunnen er in een afgeschermde omgeving samen spelen.
 
-!["Bewonersfeest in gedeelde tuin"](../img/wonen-werken-in-berlijn-tuin_feest-1.jpg)<br>
+!["Bewonersfeest in gedeelde tuin"](../assets/img/wonen-werken-in-berlijn-tuin_feest-1.jpg)<br>
 *Bewonersfeest in gedeelde tuin*
 
 De ruimte die ontstaat door dichter te wonen gaat niet alleen naar bredere straten maar ook naar parken en groenruimte. Er zijn [2500 parken en groene ruimtes in de stad][2].  De parken worden druk bezocht vooral tijdens de lente en zomer. 
 Er zijn dikwijls ook schommels of andere speeltuigen voor kinderen. Het is een ontmoetingsplaats voor de gezinnen met kinderen uit de buurt die met mekaar in contact komen terwijl de kinderen spelen.  Terwijl in Vlaanderen veel gezinnen met kinderen de stad verlaten zie je in Berlijn veel gezinnen met kinderen in het straatbeeld.
 
-!["Weinbergspark"](../img/wonen-werken-in-berlijn-weinbergspark-1.jpg)<br>
+!["Weinbergspark"](../assets/img/wonen-werken-in-berlijn-weinbergspark-1.jpg)<br>
 *Weinbergspark*
 
 
@@ -114,7 +114,7 @@ Men zegt altijd dat het in Vlaanderen niet goed gesteld is met de groene ruimte 
 
 [Rond de 30 percent van de oppervlakte in Berlijn bestaat uit groene ruimte en bossen][2].  Alleen al langs de straten staan er zo een 440000 bomen.  Bovendien zijn er ook grote stukken natuur en bos in de nabijheid zonder bewoning of gemotoriseerd verkeer. Ideaal om te ontspannen en te wandelen of fietsen. Enkele van mijn favoriete plaatsen op onderstaande kaart.
 
-!["Berlijn en mijn favoriete stukken natuur. Kaartgegevens, copyright GeoBasis-DE/BKG, Google"](../img/wonen-werken-in-berlijn-berlin_map-1.jpg)<br>
+!["Berlijn en mijn favoriete stukken natuur. Kaartgegevens, copyright GeoBasis-DE/BKG, Google"](../assets/img/wonen-werken-in-berlijn-berlin_map-1.jpg)<br>
 *Berlijn en mijn favoriete stukken natuur. Kaartgegevens, copyright GeoBasis-DE/BKG, Google*
 
 
@@ -124,10 +124,10 @@ Men zegt altijd dat het in Vlaanderen niet goed gesteld is met de groene ruimte 
    * Tempelhofer Feld: De voormalige Tempelhof luchthaven, meer dan 300 hectare, die in 2008 sloot en sinds 2010 geopend is als park. Mensen komen er barbecuen, hardrijden met de fiets en ook kitesurfen op de voormalige landingsbanen is populair.
    * Müggelsee: Het grootste meer binnen de stadsgrens van Berlijn (7,4 km2). Leuk om met de fiets op de S-bahn naar Friedrichshagen te reizen, 30 - 40 minuten vanuit centrum Berlijn, om dan rond de Müggelsee te fietsen.
 
-!["Grunewald tijdens de herfst"](../img/wonen-werken-in-berlijn-grunewald-1.jpg)<br>
+!["Grunewald tijdens de herfst"](../assets/img/wonen-werken-in-berlijn-grunewald-1.jpg)<br>
 *Grunewald tijdens de herfst*
 
-!["Eén van de stranden rond de Müggelsee"](../img/wonen-werken-in-berlijn-muggelsee-1.jpg)<br>
+!["Eén van de stranden rond de Müggelsee"](../assets/img/wonen-werken-in-berlijn-muggelsee-1.jpg)<br>
 *Eén van de stranden rond de Müggelsee*
 
 ## Wat kan er beter in Duitsland en Berlijn?

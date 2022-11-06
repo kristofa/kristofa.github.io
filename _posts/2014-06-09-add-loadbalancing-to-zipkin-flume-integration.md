@@ -10,7 +10,7 @@ I wrote a [Flume Sink](https://github.com/openzipkin-attic/flume-zipkin-collecto
 
 To make it work in its most basic setup you should configure Flume as following:
 
-!["Zipkin / Flume architecture picture"](../img/2014-06-09-flume_zipkin_integration.png)<br>
+!["Zipkin / Flume architecture picture"](../assets/img/2014-06-09-flume_zipkin_integration.png)<br>
   
 
 The set up described in the drawing works but it would be nice to be able to support sending spans to multiple Zipkin collector service instances instead of just one. This both for scalability and avoiding a single point of failure.

@@ -58,7 +58,7 @@ Next I configured keyboard shortcuts that execute each of the scripts so I can e
    3. Windows key + p : Executes *projector.sh*
 
 
-!["Xubuntu keyboard application shortcuts"](../img/2013-01-27-xubuntu_keyboard_application_shortcuts.png)<br>
+!["Xubuntu keyboard application shortcuts"](../assets/img/2013-01-27-xubuntu_keyboard_application_shortcuts.png)<br>
 *Xubuntu keyboard application shortcuts*
 
 You can see the keyboard shortcuts configuration for Xubuntu in above screenshot (<Super> = Windows key).
