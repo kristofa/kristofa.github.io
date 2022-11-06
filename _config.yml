@@ -56,15 +56,12 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: kristofa
-#  goodreads: 110501578-kristof-a # add afterwards
   twitter: KristofAdr
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
   linkedin: kristof-adriaenssens-8a481619
-#  pinboard: u:kristofa # add afterwards
-# soundcloud: kristof-adriaenssens # add afterwards
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -79,7 +76,7 @@ social-network-links:
   mastodon: mastodon.online/@KristofAdr
   goodreads: 110501578-kristof-a
   soundcloud: kristof-adriaenssens
-  pinboard: u:kristofa
+#  pinboard: u:kristofa  # icon can't be found so disabling for now
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
