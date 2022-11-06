@@ -14,6 +14,3 @@ I like working at the intersection of Technology, Product and Delivery and like 
 # Personal
 
 I like swimming, cooking, listening to music, reading, meeting friends, photography and walking or resting in nature.
-
-
-
