@@ -10,7 +10,8 @@ Software Engineer currently working at [Olympus Mobility](https://www.olympus-mo
 
 I like working at the intersection of Technology, Product and Delivery and like helping teams so they can to do their best work.
 
-I'm an advocate of Agile and Lean principles and like to look at and help improve the complete product development process.
+I'm an advocate of Agile and [Lean principles](https://en.wikipedia.org/wiki/Lean_software_development).
+
 
 I love to work on products that matter and that serve people’s and society's needs.  For more details see [LinkedIn](https://www.linkedin.com/in/kristof-adriaenssens-8a481619/).
 
