@@ -4,15 +4,13 @@ title: Improving the flow of work at Olympus Mobility
 tags: [product development, lean, kanban, flow, flowmetrics]
 ---
 
-# Improving the flow of work
-
-_Originally posted [here](https://www.olympus-mobility.be/en/improving-the-flow-of-work/)_
+_This blog post describes how we identified and addressed the root causes of a slowdown of delivery of value._
 
 The Olympus Mobility product development team is a multi-disciplinary team with backend developers, a web developer, mobile app developer, product designer and with the CTO and CEO sharing the product management role.
 
 We're building the [Olympus Mobility platform(https://www.olympus-mobility.be/en/) and also work with [KBC Group](https://www.kbc.com/en.html) to integrate our services in the [KBC Mobile Banking app](https://www.kbc.be/campaigns/mobile/en/).
 
-At the beginning of 2022 the product development team decided that it wanted to deliver faster because it had become harder to meet release dates.
+At the beginning of 2022 the product development team decided that it wanted to deliver faster because it had become harder to meet release dates. 
 
 We wanted to take a step back to find out what was going on and find ways to improve. This blog post will describe the steps we took to identify the problems and how we addressed them so we could deliver value sooner with higher quality.
 
@@ -150,4 +148,6 @@ Copying these practices might not give the same results in your product developm
 \[2\] : The flow efficiency calculations and the Gantt chart are generated using the [<u>work-exposure github project</u>](https://github.com/kristofa/work-exposure).
 
 _Many thanks go out to [<u>Tom Stuart</u>](https://www.linkedin.com/in/another-tom-stuart/) and [<u>Will Ellis</u>](https://www.linkedin.com/in/will-ellis/) for reviewing the blog post and providing valuable feedback._
+
+_This blog post was originally posted [here](https://www.olympus-mobility.be/en/improving-the-flow-of-work/)_
 
