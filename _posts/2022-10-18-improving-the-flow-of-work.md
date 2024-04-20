@@ -8,7 +8,7 @@ _This blog post describes how we identified and addressed the root causes of a s
 
 The Olympus Mobility product development team is a multi-disciplinary team with backend developers, a web developer, mobile app developer, product designer and with the CTO and CEO sharing the product management role.
 
-We're building the [Olympus Mobility platform(https://www.olympus-mobility.be/en/) and also work with [KBC Group](https://www.kbc.com/en.html) to integrate our services in the [KBC Mobile Banking app](https://www.kbc.be/campaigns/mobile/en/).
+We're building the [Olympus Mobility platform](https://www.olympus-mobility.be/en/) and also work with [KBC Group](https://www.kbc.com/en.html) to integrate our services in the [KBC Mobile Banking app](https://www.kbc.be/campaigns/mobile/en/).
 
 At the beginning of 2022 the product development team decided that it wanted to deliver faster because it had become harder to meet release dates. 
 
