@@ -32,18 +32,18 @@ I didn't want to pay $192 / year just to share our recipes but I do appreciate t
 
 ## Alternative basic note sharing solution - high level overview
 
-Since Obsidian notes are just markdown files that are stored on your computer's harddrive I built some scripts to sync the recipes between our both accounts using our MacBook. 
+Since Obsidian notes are just markdown files that are stored on your computer's harddrive I built some scripts to sync the recipes between our accounts using our MacBook. 
 
 
 !["Sequence diagram of the high level synchronisation process"](../assets/img/2024-06-01-basic-readonly-sharing-obsidian-notes-sequence-diagram.jpg)<br>
 
 
-I defined a login action for both my account and my partner's user account (Dirk) which executes an application. On each of our user accounts a different application is executed which  got created using the macOS Automator.app. The application is basically just a wrapper around a shell script (more details on that later).
+I defined a login action for both my account and my partner's user account (Dirk) which executes an application. Each of our user accounts executes a different application that is created using the macOS `Automator.app.` The application is basically just a wrapper around a shell script (more details on that later).
 
 The script that executes when I log in does the following:
 
 1. it syncs the directory with my recipes from my Obsidian vault in iCloud drive to a central directory on our MacBook that's accessible to both our user accounts: `/opt/recipes_sync/kristof` 
-2. it syncs the directory with Dirk's recipes from the a central directory that's accessible to both our user accounts `/opt/recipes_sync/dirk` to the a directory in my Obisidian vault in iCloud drive.
+2. it syncs the directory with Dirk's recipes from the a central directory that's accessible to both our user accounts `/opt/recipes_sync/dirk` to a directory in my Obisidian vault in iCloud drive.
 
 When Dirk logs in a similar script is executed which:
 
@@ -117,4 +117,4 @@ There are of course several limitations and risks which might not make it workab
 
 I first thought it would be easier to use the sharing functionality of iCloud to share our recipes with one another but the problem is that you still need to copy the shared content over to the Obsidian vault of the other user in iCloud drive so it doesn't really make things easier.
 
-If you use Obsidian professionally it should be a no-brainer to pay for the Sync product which is a lot safer and doesn't have all these limitations and risks.
+If you use Obsidian professionally it should be a no-brainer to pay for the Sync product which is a lot safer and doesn't have all these limitations and potential risks.
