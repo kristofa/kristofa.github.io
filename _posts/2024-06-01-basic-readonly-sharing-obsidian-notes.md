@@ -85,21 +85,21 @@ rsync -r --delete ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/notes
 rsync -r --delete /opt/recipes-sync/dirk/ ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/notes/recepten_dirk/
 ```
 
-Saved the application somewhere in your home directory (I put it in `~/Applications`).
+Save the application somewhere in your home directory (I put it in `~/Applications`).
 
 [rsync](https://en.wikipedia.org/wiki/Rsync) is a command-line tool that comes pre-installed with macOS and which is used to synchronise files between two locations (source to destination). In this case the full content of a directory is synced.
 
-The `-r`option makes sure we synchronise all folders and files recursively. 
+The `-r` option makes sure we synchronise all folders and files recursively. 
 
 The `--delete` option makes sure that we delete files that exist in destination that do not exist in source anymore.
 
 Because the target directory is the iCloud Drive Obsidian vault directory, iCloud makes sure the files are copied to the cloud and synched to all devices.
 
-Next I make sure the application gets executed at login by adding the application to System Preferences -> Login Items 
+Next I make sure the application gets executed at login by adding the application to Preferences -> User & Groups -> Login Items. 
 
 I replicated this process for my parter's account but with different shells script content obviously.
 
-*Important prerequisite:* All files so also images that might be included in the notes need to be part of the directory or underlying directories that we sync. So make sure you configure Obsidian -> Preferences... -> Files and links -> "Default location for new attachments" to be either "in subfolder under current folder" or "Same folder as current file"
+*Important prerequisite:* All files so also images that might be included in the notes need to be part of the directory or underlying directories that we sync. So make sure you configure Obsidian -> Preferences... -> Files and links -> "Default location for new attachments" to be either "in subfolder under current folder" or "Same folder as current file".
 
 ## Conclusion, limitations and risks
 
@@ -110,11 +110,9 @@ So for us this solution is good enough for now.
 There are of course several limitations and risks which might not make it workable for you:
 
 - Me and my partner share a private MacBook with two different user accounts. The syncing relies on the flexibility of macOS to define login actions and run custom made applications / shell scripts.
-- The notes are only shared when we both use and log into the MacBook. We log in practically daily so that not an issue for us.
+- The notes are only shared when we both use and log into the MacBook. We log in practically daily so that's not an issue for us.
 - The sync only happens in one direction and we should only edit the recipes in our own folder. If I would edit my partner's recipes and he would edit mine the changes would be overwritten on the next sync.
 - The recipes are copied from and to a fixed location in our Obsidian vaults. If we would update the location of the recipes in Obsidian we would have to update the scripts or the synching would stop working.
-- We only have two user accounts on our MacBook and the recipes that we share are not secret at all but by copying to /opt and making the recipes available for all users part of the user group 'staff', every other regular user would be able to view and copy the notes. So it's important to not share any sensitive notes using this approach or make the access more restrictive.
-
-I first thought it would be easier to use the sharing functionality of iCloud to share our recipes with one another but the problem is that you still need to copy the shared content over to the Obsidian vault of the other user in iCloud drive so it doesn't really make things easier.
+- We only have two user accounts on our MacBook and the recipes that we share are not secret at all but by copying to `/opt` and making the recipes available to all users part of the user group 'staff', every other regular user would be able to view and copy the notes. So it's important to not share any sensitive notes using this approach or make the access more restrictive.
 
 If you use Obsidian professionally it should be a no-brainer to pay for the Sync product which is a lot safer and doesn't have all these limitations and potential risks.
