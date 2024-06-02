@@ -116,3 +116,5 @@ There are of course several limitations and risks which might not make it workab
 - We only have two user accounts on our MacBook and the recipes that we share are not secret at all but by copying to `/opt` and making the recipes available to all users part of the user group 'staff', every other regular user would be able to view and copy the notes. So it's important to not share any sensitive notes using this approach or if you do make the access more restrictive.
 
 If you use Obsidian professionally it should be a no-brainer to pay for the Sync product which is a lot safer and doesn't have all these limitations and potential risks.
+
+If you have any feedback, please comment [on my Mastodon post](https://computerclub.social/@KristofAdriaenssens/112546604860318987).
