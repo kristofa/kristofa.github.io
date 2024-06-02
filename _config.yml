@@ -99,7 +99,7 @@ rss-description: Website Kristof Adriaenssens RSS feed
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
