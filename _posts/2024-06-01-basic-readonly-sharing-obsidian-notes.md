@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Basic read-only syncing of Obsidian notes
+title: Basic read-only sharing of Obsidian notes
 tags: [productivity, notes, knowledge, obsidian]
 ---
 
-_This blog post describes how I set-up basic read-only note syncing with Obsidian (without using Obsidian Sync) for me and my partner who share the same computer._
+_This blog post describes how I set-up basic read-only note sharing with Obsidian (without using Obsidian Sync) for me and my partner who share the same computer._
 
 I've been using [Evernote](https://evernote.com) for personal use with a paying account since 2011 but recently I switched to [Obsidian](https://obsidian.md). 
 
@@ -30,7 +30,7 @@ In comparison I was paying 43.99 EUR / year for Evernote personal. Paying for Ev
 
 I didn't want to pay $192 / year just to share our recipes but I do appreciate the small team that's building Obsidian and so I supported them by paying $25 which also gives me access to beta versions and some other extras (see [Early access on this page](https://obsidian.md/pricing)). I'll probably repeat this in the future.
 
-## Alternative basic note syncing solution - high level overview
+## Alternative basic note sharing solution - high level overview
 
 Since Obsidian notes are just markdown files that are stored on your computer's harddrive I built some scripts to sync the recipes between our accounts using our MacBook. 
 
