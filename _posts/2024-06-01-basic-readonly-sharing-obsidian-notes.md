@@ -99,7 +99,7 @@ Next I make sure the application gets executed at login by adding the applicatio
 
 I replicated this process for my parter's account but with a different shell script content obviously.
 
-*Important prerequisite:* Because we sync one parent directory all files the files that are linked from the notes like images need to be part of the directory or underlying directories that we sync. So make sure you configure Obsidian -> Preferences... -> Files and links -> "Default location for new attachments" to be either "in subfolder under current folder" or "Same folder as current file".
+*Important prerequisite:* Because we sync one parent directory all the files that are linked from the notes like images need to be part of the directory or underlying directories that we sync. So make sure you configure Obsidian -> Preferences... -> Files and links -> "Default location for new attachments" to be either "in subfolder under current folder" or "Same folder as current file".
 
 ## Conclusion, limitations and risks
 
