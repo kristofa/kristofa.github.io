@@ -97,9 +97,9 @@ Because the target directory is the iCloud Drive Obsidian vault directory, iClou
 
 Next I make sure the application gets executed at login by adding the application to Preferences -> User & Groups -> Login Items. 
 
-I replicated this process for my parter's account but with different shells script content obviously.
+I replicated this process for my parter's account but with a different shell script content obviously.
 
-*Important prerequisite:* All files so also images that might be included in the notes need to be part of the directory or underlying directories that we sync. So make sure you configure Obsidian -> Preferences... -> Files and links -> "Default location for new attachments" to be either "in subfolder under current folder" or "Same folder as current file".
+*Important prerequisite:* Because we sync one parent directory all files the files that are linked from the notes like images need to be part of the directory or underlying directories that we sync. So make sure you configure Obsidian -> Preferences... -> Files and links -> "Default location for new attachments" to be either "in subfolder under current folder" or "Same folder as current file".
 
 ## Conclusion, limitations and risks
 
@@ -113,6 +113,6 @@ There are of course several limitations and risks which might not make it workab
 - The notes are only shared when we both use and log into the MacBook. We log in practically daily so that's not an issue for us.
 - The sync only happens in one direction and we should only edit the recipes in our own folder. If I would edit my partner's recipes and he would edit mine the changes would be overwritten on the next sync.
 - The recipes are copied from and to a fixed location in our Obsidian vaults. If we would update the location of the recipes in Obsidian we would have to update the scripts or the synching would stop working.
-- We only have two user accounts on our MacBook and the recipes that we share are not secret at all but by copying to `/opt` and making the recipes available to all users part of the user group 'staff', every other regular user would be able to view and copy the notes. So it's important to not share any sensitive notes using this approach or make the access more restrictive.
+- We only have two user accounts on our MacBook and the recipes that we share are not secret at all but by copying to `/opt` and making the recipes available to all users part of the user group 'staff', every other regular user would be able to view and copy the notes. So it's important to not share any sensitive notes using this approach or if you do make the access more restrictive.
 
 If you use Obsidian professionally it should be a no-brainer to pay for the Sync product which is a lot safer and doesn't have all these limitations and potential risks.
