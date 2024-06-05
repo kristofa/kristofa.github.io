@@ -28,7 +28,7 @@ Obsidian does support sharing vaults (root directory with notes) as part of the 
 
 In comparison I was paying 43.99 EUR / year for Evernote personal. Paying for Evernote removed the note limit, I could use it on more than 2 devices and we could share notes. My partner was using the free version.
 
-I might consider paying the $96 / year later but for now I supported the Obisidan team by paying $25 which also gives me access to beta versions and some other extras (see [Early access on this page](https://obsidian.md/pricing)). I'll stick with the implementation outlined below for now.
+I might consider paying the $96 / year later but for now I supported the Obisidan team by paying $25 which also gives me access to beta versions and some other extras (see [Early access on this page](https://obsidian.md/pricing)).
 
 ## Alternative basic note sharing solution - high level overview
 
