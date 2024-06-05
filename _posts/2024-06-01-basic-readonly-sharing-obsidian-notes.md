@@ -24,11 +24,11 @@ I set up Obsidian to use iCloud Drive to sync my notes between my Macbook, iPhon
 
 Me and my partner like to cook and we both have our set of recipes that we share with each other. Notebook sharing is easy using Evernote.
 
-Obsidian does support sharing vaults (root directory with notes) as part of the Sync product but it currently costs $8 per month per person if you need support for more than 1 vault which means it would cost us $192 / year ($8 x 2 people x 12 months) which I find too much for personal use.  
+Obsidian does support sharing vaults (root directory with notes) as part of the Sync product ~~but it currently costs $8 per month per person if you need support for more than 1 vault which means it would cost us $192 / year ($8 x 2 people x 12 months) which I find too much for personal use.~~ *Update: 05th of June 2024: [kepano](https://computerclub.social/@kepano@mastodon.social) commented [on my Mastodon post](https://computerclub.social/@KristofAdriaenssens/112546604860318987) saying that you can accomplish what I'm doing here, 1 shared recipes vault for two people for $96 / year if both me and my partner take the $4 / month Sync subcription. This works because shared vaults are free for the recipient. See the comments on the post.*  
 
 In comparison I was paying 43.99 EUR / year for Evernote personal. Paying for Evernote removed the note limit, I could use it on more than 2 devices and we could share notes. My partner was using the free version.
 
-I didn't want to pay $192 / year just to share our recipes but I do appreciate the small team that's building Obsidian and so I supported them by paying $25 which also gives me access to beta versions and some other extras (see [Early access on this page](https://obsidian.md/pricing)). I'll probably repeat this in the future.
+I might consider paying the $96 / year later but for now I supported the Obisidan team by paying $25 which also gives me access to beta versions and some other extras (see [Early access on this page](https://obsidian.md/pricing)). I'll stick with the implementation outlined below for now.
 
 ## Alternative basic note sharing solution - high level overview
 
