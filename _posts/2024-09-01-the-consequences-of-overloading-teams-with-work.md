@@ -38,7 +38,7 @@ The consequences of overloading teams with work are all negative.
    - because of time pressure and many context switches mistakes are made or work is done less thorough which negatively impacts quality.
 - The cycle time (time to value) becomes longer and predictability lowers
    - the schedule was so full that they only could come back 3 weeks later to finalise the installation. It's likely that we were not the only client impacted by the packed schedule which means planning becomes harder and harder and predictability goes down.
-- Lower quality leads to lower customer satisfaction
+- Lower quality leads to lower customer satisfaction and additional work
    - the solar panel installation was finished 3 weeks later than expected.
    - we could only benefit from a reduced energy bill weeks later.
    - there was additional work to call the Internet provider (including a 30-minute waiting time on the phone) to restore our Internet.
@@ -56,7 +56,7 @@ Besides all these we were still lucky that there was no stormy weather during th
 If you reflect on these consequences I think many of you will probably be able to see similarities with product development environments you've worked in. I definitely do. Some personal examples I experienced from the product / software development domain:
 
 - a migration from Vue.js 2 to Vue.js 3 got started because Vue.js 2 became end-of-life and stopped getting updates. Because the team was working on many things at the same time and there were conflicting priorities there was no capacity for thorough regression testing. For several months bug fixes and new features needed to be implemented in both the Vue.js 2 and Vue.js 3 versions. This resulted in additional work, higher chance of mistakes and a longer time to value.
-- the discovery phase of an initiative got started and stopped multiple times over the period of 1 year. Each time another technical lead gets appointed resulting in a handover and getting familiar with the context over and over again. 
+- the discovery phase of an initiative got started and stopped multiple times over the period of 1 year. Each time another technical lead got appointed resulting in handovers and getting familiar with the context over and over again.
 - the functionality for a yearly contract renewal wasn't tested well. It would only be needed a year after launch, there was still time to validate it, and other work was waiting which got started. A year later renewals didn't happen because the assumptions about the integration with a third party were wrong. This resulted in 3 weeks of high priority unplanned work. There was additional work to do manual fixes for the impacted customers whose contracts were cancelled unjustified and work to analyse and fix the implementation, so future renewals would work as expected.
 
 Despite the many unwanted consequences, and despite so much research and material that's available on the subject, many organisations in all kind of domains still fall in the trap of starting too much work.
