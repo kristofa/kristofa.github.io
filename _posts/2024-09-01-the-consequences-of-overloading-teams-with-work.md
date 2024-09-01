@@ -63,6 +63,7 @@ Despite the many unwanted consequences, and despite so much research and materia
 
 In a follow-up blog post I'll propose some suggestions on how to avoid too much work in progress in a product development context.
 
+If you want to comment or like this post, you can do so on [LinkedIn](https://www.linkedin.com/posts/kristof-adriaenssens-8a481619_the-consequences-of-overloading-teams-with-activity-7235955393347145728-xaoQ?utm_source=share)
 
 ------
 Reading tips:
