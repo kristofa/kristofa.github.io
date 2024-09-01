@@ -48,7 +48,7 @@ The consequences of overloading teams with work are all negative.
 - More overhead and cost
    - The company had to pay the cost for restoring our Internet connection.
    - They needed to plan another visit to our house to finish the work.
-   - The people who came the 2nd time were other people than the 1st time which means they had to get some context first about the situation which probably took more time. Several restarts of the same work including handover to other people are typical indications of too much work in progress.
+   - The people who came the 2nd time were other people than the 1st time which means they had to get some context first about the situation which took more time. Several restarts of the same work including handovers to other people are typical indications of too much work in progress.
 
 
 Besides all these we were still lucky that there was no stormy weather during the 3 weeks that all the equipment was laying on our roof. The cost and delay could have been a lot worse if all or part of the equipment would have blown off our roof.
