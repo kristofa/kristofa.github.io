@@ -60,7 +60,7 @@ If you reflect on these consequences I think many of you will probably be able t
 - the functionality for a subscription renewal wasn't tested well. The renewal logic only needed to be executed months after release. There was still time to validate it, and other work was waiting which got started. The first renewals didn't happen because the assumptions about the integration with a third party were wrong. This resulted in a few weeks of high priority unplanned work. There was additional work to do manual fixes for the impacted customers whose subscriptions were cancelled unjustified and work to analyse and fix the implementation, so future renewals would work as expected.
 
 
-Despite the many unwanted consequences, and despite so much research and material that's available on the subject, many organisations in all kind of domains still fall in the trap of starting too much work.
+Despite the many unwanted consequences, and despite so much research and material that's available on the subject, many organisations in all kind of domains still fall into the trap of starting too much work.
 
 In a follow-up blog post I'll propose some suggestions on how to avoid too much work in progress in a product development context.
 
