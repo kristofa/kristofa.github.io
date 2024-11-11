@@ -18,6 +18,8 @@ Every organisation is different and I don't believe that implementing one or ano
 
 After a career of almost 25 years I still love building software as part of a team but depending on the company I might have more impact when helping to build a successful software product development organisation.
 
+I like writing because it helps me to structure and refine my thoughts. It helps to reveal new connections and insights which might also be relevant to others.
+
 I love to work on products that matter and that serve people’s and society's needs.
 For more details see [LinkedIn](https://www.linkedin.com/in/kristof-adriaenssens-8a481619/).
 
