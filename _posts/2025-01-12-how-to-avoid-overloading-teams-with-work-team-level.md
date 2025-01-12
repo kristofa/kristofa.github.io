@@ -59,6 +59,7 @@ Building a software product is complex [^4]. The product and the context and con
 In every stage of the product development process we will get feedback and learn new things that will impact the amount of work we need to do to reach your goal (unknown unknowns).
 
 ![A bar chart with title 'number of work items to complete to reach our goal'. It shows 5 bars with dates 23rd of August, 30th of August, 16th of September, 30th of September and 9th of October and it shows the evolution of work items to be completed to reach a goal. You see the number increasing from 72 on the 23rd of August to 80, 87, 94 and finally 106 on the 9th of October](../assets/img/2025-01-12-number_of_work_items_to_complete_to_reach_goal.png)
+
 The chart above shows the number of work items that had to be completed for a new product launch, before it could be released to users and start generating value. It was a large initiative for which the delivery work started in April already.  But as you can see, even rather late in the process the number of work items still increased substantially. This is because there is a lot of uncertainty that gets uncovered while doing the work.
 
 Examples of things that can pop-up during delivery:
