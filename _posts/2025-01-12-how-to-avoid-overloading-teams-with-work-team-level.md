@@ -86,7 +86,7 @@ Setting limits for a max number of parallel work streams forces priority setting
 
 An indication that you should set limits and reduce the parallel work is if there is little collaboration and most people in the team work on different things. In that case you don't have a team anymore but a set of individuals. If that's the case you have no knowledge sharing, it's likely that quality will suffer due to a lack of collaboration, and you neglect the growth of especially less experienced team members if everyone is working by themselves. 
 
-When you say no you might be considered inflexible and unhelpful. Depending on the situation you can always suggest growing and splitting the team, so more work can be done in parallel and there are less conflicting priorities. But more on that in the next blog post about what can be done at organisational level.
+When you say no you might be considered inflexible and unhelpful. If relevant you can suggest growing and splitting the team, so more work can be done in parallel and there are less conflicting priorities. But more on that in the next blog post about what can be done at organisational level.
 
 # Practice - continuous probabilistic forecasting
 
