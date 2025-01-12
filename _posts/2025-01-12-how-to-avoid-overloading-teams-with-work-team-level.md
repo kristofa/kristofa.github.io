@@ -4,8 +4,9 @@ title: How to avoid overloading teams with work - team level
 tags: [productivity, wip, sustainability]
 ---
 
+_This blog post suggests what can be done at team level to avoid overloading a team with work._
 
-This is the 2nd blog post in a series of three about too much work in progress (WIP). In the 1st post you can read about [the consequences of overloading teams with work](https://kristofa.eu/2024-09-01-the-consequences-of-overloading-teams-with-work/). This 2nd blog post is about what you can do to avoid overloading teams with work at team level. The 3rd and final post in the series will be about what you can do at organisational level to avoid too much WIP.
+This is the 2nd blog post in a series of three about too much work in progress (WIP). In the 1st post you can read about [the consequences of overloading teams with work](https://kristofa.eu/2024-09-01-the-consequences-of-overloading-teams-with-work/). The 3rd and final post in the series will be about what you can do at organisational level to avoid too much WIP.
 
 What I'll share in this post are things I've tried out myself and have found to be effective.
 

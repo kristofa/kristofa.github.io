@@ -6,6 +6,8 @@ tags: [productivity, wip, sustainability]
 
 _In 2023, we let a company install a Photovoltaic (PV) system (solar panels) on the flat roof of our house.  The team installing the PV system had a packed schedule which resulted in some unexpected consequences which I'll share in this blog post. In a follow-up blog post I'll come up with some suggestions how to avoid overloading a team with work and prevent the negative effects in a product development context._
 
+This is the first post in a series of three about too much work in progress (WIP). In the 2nd post [you can read about what can be done at team level to avoid overloading teams with work](https://kristofa.eu/2025-01-12-how-to-avoid-overloading-teams-with-work-team-level/) and in the 3rd post you will be able to read about what can be done at company level.
+
 # A story about the installation of a Photovoltaic system
 
 Around mid-2022 we signed a contract with a company to install a [Photovoltaic (PV) system](https://en.wikipedia.org/wiki/Photovoltaic_system) (solar panels) on the flat roof of our house.
