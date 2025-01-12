@@ -5,7 +5,7 @@ tags: [productivity, wip, sustainability]
 ---
 
 
-This is the 2nd blog post in a series of three about too much work in progress (WIP). In the 1st post you can read about "the consequences of overloading teams with work" [^1]. This 2nd blog post is about what you can do to avoid overloading teams with work at team level. The 3rd and final post in the series will be about what you can do at organisational level to avoid too much WIP.
+This is the 2nd blog post in a series of three about too much work in progress (WIP). In the 1st post you can read about [the consequences of overloading teams with work](https://kristofa.eu/2024-09-01-the-consequences-of-overloading-teams-with-work/). This 2nd blog post is about what you can do to avoid overloading teams with work at team level. The 3rd and final post in the series will be about what you can do at organisational level to avoid too much WIP.
 
 What I'll share in this post are things I've tried out myself and have found to be effective.
 
@@ -40,12 +40,12 @@ Because the context in which we work is constantly changing, making our work vis
 
 A disadvantage of this approach is that it's a lagging indicator. Ideally we should proactively take into account a balance between the different types of work during capacity planning but in reality I've practically always have seen this fail and making work visible, after the fact, was unfortunately often the only way to invest more in internal work.
 
-John Cutler [^2] made a great drawing on how to balance different types of work during capacity planning to avoid grinding to a halt: 
+John Cutler [^1] made a great drawing on how to balance different types of work during capacity planning to avoid grinding to a halt: 
 
 ![A drawing by John Cutler that shows 3 rectangles. The first rectangle on the left shows the ideal work planning scenario where you balance different types of work like Unstructured innovation/experimentation, add new capabilities, enhance existing capabilities, manage complexity, unplanned work / interruptions. It has a subtitle 'Do this ...'. The 2nd rectangle shows a capacity planning situation that should be avoided and which only has 2 types of work: the largest majority is spent on adding new capabilities and some part one unplanned work. It has a subtitle 'Not this'. Finally the 3rd rectancle with subtitle '... or this will happen' has 3 types of work. The largest section is unplanned work / interruptions and there are 2 smaller sections. One with manage complexity and one with enhance existing capabilities. ](../assets/img/2025-01-12-john_cutler_unplanned_work.jpeg)
 
 
-Categorising work by the source of work is only one way of making work visible. There are countless other aspects of your work that you can make visible and which might provide useful insights.  I've shown flow metrics and work in progress in a previous blog post [^3]. I can also highly recommend the book Making Work Visible by Dominica Degrandis [^4].
+Categorising work by the source of work is only one way of making work visible. There are countless other aspects of your work that you can make visible and which might provide useful insights.  I've shown flow metrics and work in progress in a previous blog post [^2]. I can also highly recommend the book Making Work Visible by Dominica Degrandis [^3].
 
 Making work visible can be a real eye-opener and can be an enabler to convince the leadership team that the team needs to slow down and implement improvements before it can speed up again.
 
@@ -53,7 +53,7 @@ Making work visible can be a real eye-opener and can be an enabler to convince t
 
 Besides not being aware of the type of work that's happening in team the leadership team might also have a wrong mental model about product development work. 
 
-Building a software product is complex [^5]. The product and the context and constraints in which we're building will always be unique (= it's never been done before). 
+Building a software product is complex [^4]. The product and the context and constraints in which we're building will always be unique (= it's never been done before). 
 
 In every stage of the product development process we will get feedback and learn new things that will impact the amount of work we need to do to reach your goal (unknown unknowns).
 
@@ -96,11 +96,11 @@ But if you do limit WIP and you want to get an idea when work on an initiative w
 
 For probabilistic forecasting to work accurately there are a set of assumptions that must hold true. We assume that the throughput of the past is representative for the future and while we don't expect that all work items are equally sized, which is unrealistic anyway, probabilistic forecasting will be more accurate if variability is not too high. 
 
-If you want to experiment with probabilistic forecasting I highly recommend Daniel Vacanti's books and the podcast by Daniel and Prateek Singh [^6]. 
+If you want to experiment with probabilistic forecasting I highly recommend Daniel Vacanti's books and the podcast by Daniel and Prateek Singh [^5]. 
 
 ![Shows a burn up forecast chart. It contains a timeline starting in August 2022 and ending in May 2023. If shows a line with the backlog items, the items to be completed and a line with done items over the timeframe. It also shows the result of a Monte Carlo simulation done on the 11th of April 2023. For every Monte Carlo simulation is shows a fine line resulting in a potential release date when our target is to finish 39 work items. It also shows the different probabilities. 50% chance of finishing 17th of April 2023, 85% chance of finishing 25th of April 2023 and 95% chance of finishing on the 30th of April 2023. It also shows an arbitrary deadline of 1st of May 2023 and so with the forecast of 85% probability we have 6 slack days.](../assets/img/2025-01-12-burnup-forecast_11th_april_2023.png)
 
-The forecasts in the chart above are generated using Monte Carlo simulations [^7]. The chart shows that at the time of running the forecasts, 11th of April, we finished just above 30 work items, and we forecast by when we can complete 39 work items. It highlights that we have 85% chance to finish the work items by 25th of April based on our historical throughput. The arbitrary deadline date that is shown in the chart, 1st of May 2023, is our target date when we hope to finish the work items that let us reach our goal.  In this case it shows that with 85% probability we'll end up 6 days sooner. The chart also shows 50% and 95% probabilities (respectively 17th of April and 30th of April). You can also see that the target number of items and the completed number of items are converging which is good and to be expected quite late in the lifecycle of the initiative (you can see that we completed the first work items end of February 2023).
+The forecasts in the chart above are generated using Monte Carlo simulations [^6]. The chart shows that at the time of running the forecasts, 11th of April, we finished just above 30 work items, and we forecast by when we can complete 39 work items. It highlights that we have 85% chance to finish the work items by 25th of April based on our historical throughput. The arbitrary deadline date that is shown in the chart, 1st of May 2023, is our target date when we hope to finish the work items that let us reach our goal.  In this case it shows that with 85% probability we'll end up 6 days sooner. The chart also shows 50% and 95% probabilities (respectively 17th of April and 30th of April). You can also see that the target number of items and the completed number of items are converging which is good and to be expected quite late in the lifecycle of the initiative (you can see that we completed the first work items end of February 2023).
 
 Once you have a tool to automate these simulations, a forecast can be done in minutes.  You select a set of relevant finished work items (the reference data of the past), set the target (how many items to complete) and decide how many simulations to run which will give you the different possible outcomes with probabilities.
 
@@ -110,7 +110,7 @@ The arc diagram above shows such different forecasts for an implementation of a 
 
 Having frequent updated release date forecasts gives us new information and the option to make decisions. We could decide to postpone certain work items so we can deliver value sooner. We could decide to add additional developers to speed up the work if that can be done effectively etc.
 
-The time that I let my teams use story point estimations luckily lays quite far behind me. A former colleague of me dug deeper in the effectiveness of story points and showed that in the data that he used there was almost no correlation between cycle time and story points [^8].  We are generally bad at estimating how long something will take, and we can't take unknowns like waiting or blocked time into account while historical throughput does include this.
+The time that I let my teams use story point estimations luckily lays quite far behind me. A former colleague of me dug deeper in the effectiveness of story points and showed that in the data that he used there was almost no correlation between cycle time and story points [^7].  We are generally bad at estimating how long something will take, and we can't take unknowns like waiting or blocked time into account while historical throughput does include this.
 
 The advantage of using probabilistic forecasting is that it relies on historical data and not on guessing, and because we can do it with few efforts we can do it often which means we take new information into account like an increase in work items or a change in throughput which gives us feedback to make decisions. Finally, it's a great fit for forecasting software  product development work because a lot of uncertainty is involved.
 
@@ -124,18 +124,17 @@ You can create awareness and show the need to balance different types of work by
 In the next and final post in this series I'll share what can be done at organisational level to avoid overloading teams with work.
 
 ------
-[^1]:  [The consequences of overloading a team with work](https://kristofa.eu/2024-09-01-the-consequences-of-overloading-teams-with-work/) 
 
-[^2]: Unfortunately I can't find the original post of John Cutler back where I found the image. I have [a link to a tweet](https://twitter.com/johncutlefish/status/1622093852969680896), but it's not available anymore. You can find more by John Cutler [here](https://substack.com/@cutlefish).
+[^1]: Unfortunately I can't find the original post of John Cutler back where I found the image. I have [a link to a tweet](https://twitter.com/johncutlefish/status/1622093852969680896), but it's not available anymore. You can find more by John Cutler [here](https://substack.com/@cutlefish).
 
-[^3]: [Improving the flow of work at Olympus Mobility](https://kristofa.eu/2022-10-18-improving-the-flow-of-work/)
+[^2]: [Improving the flow of work at Olympus Mobility](https://kristofa.eu/2022-10-18-improving-the-flow-of-work/)
 
-[^4]: [Making work visible by Dominica Degrandis](https://itrevolution.com/product/making-work-visible/)
+[^3]: [Making work visible by Dominica Degrandis](https://itrevolution.com/product/making-work-visible/)
 
-[^5]: Two of my former colleagues, Thijs Morlion and Robert Stöhr wrote a post about the Cynefin framework, describing the different decision domains and how to approach them: [Elevated decision making: The Cynefin framework](https://theagilemindset.substack.com/p/elevated-decision-making-the-cynefin).
+[^4]: Two of my former colleagues, Thijs Morlion and Robert Stöhr wrote a post about the Cynefin framework, describing the different decision domains and how to approach them: [Elevated decision making: The Cynefin framework](https://theagilemindset.substack.com/p/elevated-decision-making-the-cynefin).
 
-[^6]: Daniel Vacanti wrote books on flow metrics and probabilistic forecasts: [When Will It Be Done](https://www.goodreads.com/book/show/40681093-when-will-it-be-done) and [Actionable Agile Metrics for Predictability: An Introduction by Daniel Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability). He also has podcast named [Drunk Agile](https://www.youtube.com/channel/UC758reHaPAeEixmCjWIbsOA) together with Prateek Singh.
+[^5]: Daniel Vacanti wrote books on flow metrics and probabilistic forecasts: [When Will It Be Done](https://www.goodreads.com/book/show/40681093-when-will-it-be-done) and [Actionable Agile Metrics for Predictability: An Introduction by Daniel Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability). He also has podcast named [Drunk Agile](https://www.youtube.com/channel/UC758reHaPAeEixmCjWIbsOA) together with Prateek Singh.
 
-[^7]: I'm using the [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics) project to generate these forecasts using [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method). 55 degrees also has the [ActionableAgile Analytics](https://www.55degrees.se/products/actionableagileanalytics) product that integrates with Jira or Azure DevOps Cloud and which support exposing flow metrics and doing probabilistic forecasts.
+[^6]: I'm using the [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics) project to generate these forecasts using [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method). 55 degrees also has the [ActionableAgile Analytics](https://www.55degrees.se/products/actionableagileanalytics) product that integrates with Jira or Azure DevOps Cloud and which support exposing flow metrics and doing probabilistic forecasts.
 
-[^8]: [Stop estimating, start forecasting by Thijs Morlion](https://medium.com/in-the-pocket-insights/stop-estimating-start-forecasting-b275f9f81c45)
+[^7]: [Stop estimating, start forecasting by Thijs Morlion](https://medium.com/in-the-pocket-insights/stop-estimating-start-forecasting-b275f9f81c45)
