@@ -80,15 +80,15 @@ Setting and sticking to an unrealistic release date will likely result in a wors
 
 Once you've made work visible and created awareness about the nature of product development work it should hopefully result in more realistic work scheduling that better aligns with the capacity of your teams.
 
-Ideally you move into a situation where a team can pull new work when they're finished with something but to protect your team it's important to set limits and say no if work gets pushed to the team beyond what it can handle sustainably. You can define a max number of parallel work streams for planned work (e.g. max number of new features in parallel) and set aside capacity for urgent unplanned work.  
+Ideally you move into a situation where a team can pull new work when they're finished with something but if you're still structurally getting too much work pushed to the team your must protect your team by setting limits and saying no. You can define a max number of parallel work streams for planned work (e.g. max number of new features in parallel) and set aside capacity for urgent unplanned work.  
 
-What I've seen working for dealing with unplanned work is introducing a weekly rotating firefighter role where a developer deals with defects or operational support. The developer that takes up the role knows they can be interrupted and because it's a rotating role everyone gets its fair share and there is a general knowledge about the unplanned work that pops up in the team.
+What I've seen working for dealing with unplanned work is introducing a weekly rotating firefighter role. The developer who takes up the role knows they can be interrupted and because it's a rotating role everyone gets its fair share and knowledge about the unplanned work is shared.
 
-Setting limits for a max number of parallel work streams forces priority setting, so work can be sequenced. The result will be that you deliver value sooner.
+Setting limits for a max number of parallel work streams forces priority setting, so work can be sequenced. The result will be that you deliver value sooner and with higher quality.
 
 An indication that you should set limits and reduce the parallel work is if there is little collaboration and most people in the team work on different things. In that case you don't have a team anymore but a set of individuals. If that's the case you have no knowledge sharing, it's likely that quality will suffer due to a lack of collaboration, and you neglect the growth of especially less experienced team members if everyone is working by themselves. 
 
-When you say no you might be considered inflexible and unhelpful. If relevant you can suggest growing and splitting the team, so more work can be done in parallel and there are less conflicting priorities. But more on that in the next blog post about what can be done at organisational level.
+If there's enough valuable work to be done but too much for the team to handle you can suggest growing and splitting the team, so more work can be done in parallel and there are less conflicting priorities. But more on that in the next blog post about what can be done at organisational level.
 
 # Practice - continuous probabilistic forecasting
 
