@@ -72,9 +72,9 @@ If you tracked the number of work items over time for every reasonable sized ini
 
 It also means that discovery and delivery can't be fully separated. During delivery new challenges are found which need collaboration and involvement between business / product / design / developers to decide on the way forward.
 
-A deterministic mindset is not compatible with software product development. Fixed release dates with a fixed scope make no sense. There are cases, for example due to a contractual obligation, that a pre-defined release date with a fixed scope must be reached to prevent fines or other penalties, but these should be exceptions.
+A deterministic mindset is not compatible with software product development. Fixed release dates with a fixed scope make no sense. There are cases, for example due to a contractual obligation, that a pre-defined release date with a fixed scope must be met to prevent fines or other penalties, but these should be exceptions.
 
-Setting and sticking to an unrealistic release date will likely result in a worse product with lower quality and will result in more rework after launch. Building trust by showing progress, making work visible and explaining why new work pops up should help to create awareness and hopefully change the leadership's view on how to plan work.
+Setting and sticking to an unrealistic release date will likely result in a worse product with lower quality and will result in more rework after launch. Building trust by showing progress, making work visible and explaining why new work pops up should help to create awareness and change the leadership's view on how to plan work.
 
 # Set limits and say no
 
@@ -121,9 +121,9 @@ The advantage of using probabilistic forecasting is that it relies on historical
 
 If your team has a too much WIP there are things in your control at team level to improve the situation. 
 
-You can create awareness and show the need to balance different types of work by making work visible. You can educate your organisation about the emergent nature of product development work and share real-life examples. It is important to set limits according to the capacity of the team and if you are asked about expected delivery dates for large features or new products I can recommend learning more about and trying continuous probabilistic forecasting.
+You can create awareness and show the need to balance different types of work by making work visible. You can educate your organisation about the emergent nature of product development work and share examples. It is important to set limits according to the capacity of the team and if you are asked about expected delivery dates for large features or new products I can recommend learning more about flow metrics and trying continuous probabilistic forecasting.
 
-In the next and final post in this series I'll share what can be done at organisational level to avoid overloading teams with work.
+In the next and final post in this series I'll share what can be done at organisational level to avoid overloading teams with work which will have the most impact.
 
 ------
 
@@ -135,7 +135,7 @@ In the next and final post in this series I'll share what can be done at organis
 
 [^4]: Two of my former colleagues, Thijs Morlion and Robert Stöhr wrote a post about the Cynefin framework, describing the different decision domains and how to approach them: [Elevated decision making: The Cynefin framework](https://theagilemindset.substack.com/p/elevated-decision-making-the-cynefin).
 
-[^5]: Daniel Vacanti wrote books on flow metrics and probabilistic forecasts: [When Will It Be Done](https://www.goodreads.com/book/show/40681093-when-will-it-be-done) and [Actionable Agile Metrics for Predictability: An Introduction by Daniel Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability). He also has podcast named [Drunk Agile](https://www.youtube.com/channel/UC758reHaPAeEixmCjWIbsOA) together with Prateek Singh.
+[^5]: Daniel Vacanti wrote books on flow metrics and probabilistic forecasts: [When Will It Be Done](https://www.goodreads.com/book/show/40681093-when-will-it-be-done) and [Actionable Agile Metrics for Predictability: An Introduction by Daniel Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability). He also has a podcast named [Drunk Agile](https://www.youtube.com/channel/UC758reHaPAeEixmCjWIbsOA) together with Prateek Singh.
 
 [^6]: I'm using the [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics) project to generate these forecasts using [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method). 55 degrees also has the [ActionableAgile Analytics](https://www.55degrees.se/products/actionableagileanalytics) product that integrates with Jira or Azure DevOps Cloud and which support exposing flow metrics and doing probabilistic forecasts.
 
