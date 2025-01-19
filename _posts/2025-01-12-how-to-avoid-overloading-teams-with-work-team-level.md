@@ -125,6 +125,8 @@ You can create awareness and show the need to balance different types of work by
 
 In the next and final post in this series I'll share what can be done at organisational level to avoid overloading teams with work which will have the most impact.
 
+_If you want to give feedback or ask questions about this post, you can either do so on [Mastodon](https://computerclub.social/@KristofAdriaenssens/113836850101298451) or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7285558153293824001/)._
+
 ------
 
 [^1]: Unfortunately I can't find the original post of John Cutler back where I found the image. I have [a link to a tweet](https://twitter.com/johncutlefish/status/1622093852969680896), but it's not available anymore. You can find more by John Cutler [here](https://substack.com/@cutlefish).
