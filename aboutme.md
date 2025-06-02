@@ -6,7 +6,7 @@ title: About me
 # Professional
 
 
-Working as Engineering Manager at [Olympus Mobility](https://www.olympus-mobility.be/en/). In the past I've been working at [In The Pocket](https://www.inthepocket.com), [SoundCloud](https://www.soundcloud.com) and [Tomtom](http://www.tomtom.com) in both individual contributor and leadership roles.
+Taking a break until July 2025. In the past I've been working at [Olympus Mobility](https://www.olympus-mobility.be/en/), [In The Pocket](https://www.inthepocket.com), [SoundCloud](https://www.soundcloud.com) and [Tomtom](http://www.tomtom.com) in both individual contributor and leadership roles.
 
 I like working at the intersection of Technology, Product and Delivery and like helping teams so they can to do their best work.
 
