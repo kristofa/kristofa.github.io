@@ -88,6 +88,8 @@ What I've seen working for dealing with unplanned work is introducing a weekly r
 
 Setting limits for a max number of parallel work streams forces priority setting, so work can be sequenced. The result will be that you deliver value sooner and with higher quality.
 
+_Update 2026-06-06: Work should be limited at all levels so besides parallel work streams / feature level definitely also at work item level, the daily focus area for the delivery team. Having WIP limits for each Kanban board stage and ideally also doing/done split up of each stage so we can easily spot bottlenecks. This will result in the team working together to focus on finishing what's in progress instead of starting new work._
+
 An indication that you should set limits and reduce the parallel work is if there is little collaboration and most people in the team work on different things. In that case you don't have a team anymore but a set of individuals. If that's the case you have no knowledge sharing, it's likely that quality will suffer due to a lack of collaboration, and you neglect the growth of especially less experienced team members if everyone is working by themselves. 
 
 If there's enough valuable work to be done but too much for the team to handle you can suggest growing and splitting the team, so more work can be done in parallel and there are less conflicting priorities. But more on that in the next blog post about what can be done at organisational level.
