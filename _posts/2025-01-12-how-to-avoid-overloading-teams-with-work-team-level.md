@@ -76,11 +76,13 @@ A deterministic mindset is not compatible with software product development. Fix
 
 Setting and sticking to an unrealistic release date will likely result in a worse product with lower quality and will result in more rework after launch. Building trust by showing progress, making work visible and explaining why new work pops up should help to create awareness and change the leadership's view on how to plan work.
 
+_Update 2026-06-06: This doesn't mean work shouldn't be prepared before it's started. A Tech Design that's reviewed and split up in work items with acceptance criteria is relevant as well as try doing deliberate discovery [^8]. In the analysis phase this could be collaborative modelling and involving stakeholders and customers, make sure multiple perspectives are checked._
+
 # Set limits and say no
 
 Once you've made work visible and created awareness about the nature of product development work it should hopefully result in more realistic work scheduling that better aligns with the capacity of your teams.
 
-Ideally you move into a situation where a team can pull new work when they're finished with something but if you're still structurally getting too much work pushed to the team your must protect your team by setting limits and saying no. You can define a max number of parallel work streams for planned work (e.g. max number of new features in parallel) and set aside capacity for urgent unplanned work.  
+Ideally you move into a situation where a team can pull new work when they're finished with something but if you're still structurally getting too much work pushed to the team your must protect your team by setting limits and saying no. You can define a max number of parallel work streams for planned work (e.g. max number of new features in parallel) and set aside capacity for urgent unplanned work.
 
 What I've seen working for dealing with unplanned work is introducing a weekly rotating firefighter role. The developer who takes up the role knows they can be interrupted and because it's a rotating role everyone gets its fair share and knowledge about the unplanned work is shared.
 
@@ -142,3 +144,5 @@ _If you want to give feedback or ask questions about this post, you can either d
 [^6]: I used to use [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics) to generate these forecasts using [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method) but the project is unmaintained and is getting more difficult to get to work. Commercial alternatives are [ActionableAgile Analytics](https://www.55degrees.se/products/actionableagileanalytics) by 55 degrees and [Nave](https://getnave.com). Both products integrate with Jira or Azure DevOps, support exposing flow metrics in different ways and are able to do probabilistic forecasts.
 
 [^7]: [Stop estimating, start forecasting by Thijs Morlion](https://medium.com/in-the-pocket-insights/stop-estimating-start-forecasting-b275f9f81c45)
+
+[^8]: [Deliberate Discovery](https://dannorth.net/blog/introducing-deliberate-discovery/)
